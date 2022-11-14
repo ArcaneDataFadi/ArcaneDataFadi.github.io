@@ -1,0 +1,37 @@
+table, th, td {
+	border: 3px inset rgba(255, 4, 4, 0.873);
+}
+li{
+	background-color: rgb(221, 255, 0);
+}
+p{
+    color:orange
+}
+img{
+    width:32%;
+}
+h1{
+    font-size:32pt;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+body
+{
+    background-image: url("resimler/gs.png");
+    background-size: 100px;
+    background-repeat: repeat-y;
+}
+#kirmiziLi
+{
+    color:rgb(0, 0, 255);
+}
+#beyazLi
+{
+    color:white; 
+    background-color:black;
+}
+.ilkLi
+{
+    font-size:20pt;
+    font-weight: bold;
+}
